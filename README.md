@@ -1,0 +1,2 @@
+# FastAPItmp
+Шаблон проекта FastAPI
