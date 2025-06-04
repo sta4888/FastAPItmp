@@ -1,0 +1,6 @@
+{% if cookiecutter.fastapi_version == "standard" %}
+fastapi[standard]
+{% else %}
+fastapi=={{ cookiecutter.fastapi_version }}
+uvicorn=={{ cookiecutter.uvicorn_version }}
+{% endif %}

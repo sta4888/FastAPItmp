@@ -1,0 +1,7 @@
+{
+  "project_name": "My FastAPI Project",
+  "project_slug": "my_fastapi_project",
+  "app_type": ["sync", "async"],
+  "fastapi_version": ["standard", "0.110.0"],
+  "uvicorn_version": "0.29.0"
+}
